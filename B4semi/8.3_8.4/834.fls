@@ -98,14 +98,12 @@ INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
-INPUT 8_1.JPG
-INPUT extractbb -B cropbox -O 8_1.JPG
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+INPUT 8_1.JPG
+INPUT extractbb -B cropbox -O 8_1.JPG
 OUTPUT 834.dvi
-INPUT 8_2.JPG
-INPUT extractbb -B cropbox -O 8_2.JPG
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
@@ -128,6 +126,8 @@ INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy9.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
+INPUT 8_2.JPG
+INPUT extractbb -B cropbox -O 8_2.JPG
 INPUT 8_3.JPG
 INPUT extractbb -B cropbox -O 8_3.JPG
 INPUT 8_6.JPG
