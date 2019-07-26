@@ -1,13 +1,13 @@
-This is e-upTeX, Version 3.14159265-p3.8.1-u1.23-180226-2.6 (utf8.uptex) (TeX Live 2018/W32TeX) (preloaded format=uplatex 2019.4.6)  22 JUL 2019 16:56
+This is e-upTeX, Version 3.14159265-p3.8.2-u1.24-190131-2.6 (utf8.uptex) (TeX Live 2019/W32TeX) (preloaded format=uplatex 2019.7.24)  26 JUL 2019 17:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **834.tex
 (./834.tex
-pLaTeX2e <2018-12-01u02> (based on LaTeX2e <2018-12-01>)
-(c:/texlive/2018/texmf-dist/tex/platex/jsclasses/jsarticle.cls
-Document Class: jsarticle 2018/12/11 jsclasses (okumura, texjporg)
+pLaTeX2e <2019-04-06u02> (based on LaTeX2e <2018-12-01>)
+(c:/texlive/2019/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+Document Class: jsarticle 2019/04/06 jsclasses (okumura, texjporg)
 \jsc@mpt=\dimen118
 \jsc@mmm=\dimen119
 \jsc@smallskipamount=\skip41
@@ -42,16 +42,16 @@ LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
 \jsc@tocl@width=\dimen121
 \@lnumwidth=\dimen122
 \bibindent=\dimen123
-(c:/texlive/2018/texmf-dist/tex/platex/jsclasses/jslogo.sty
+(c:/texlive/2019/texmf-dist/tex/platex/jsclasses/jslogo.sty
 Package: jslogo 2017/02/24 okumura, texjporg
 LaTeX Info: Redefining \TeX on input line 94.
 LaTeX Info: Redefining \LaTeX on input line 147.
 LaTeX Info: Redefining \LaTeXe on input line 200.
 )
 \heisei=\count91
-) (c:/texlive/2018/texmf-dist/tex/latex/ascmac/ascmac.sty
+) (c:/texlive/2019/texmf-dist/tex/latex/ascmac/ascmac.sty
 Package: ascmac 2018/03/09 v2.0h ascmac wrapper (community edition) 
- (c:/texlive/2018/texmf-dist/tex/latex/ascmac/tascmac.sty
+ (c:/texlive/2019/texmf-dist/tex/latex/ascmac/tascmac.sty
 Package: tascmac 2018/03/09 v2.0h ascmac package (community edition) 
 \@savetbaselineshift=\dimen124
 \@saveybaselineshift=\dimen125
@@ -70,21 +70,21 @@ Package: tascmac 2018/03/09 v2.0h ascmac package (community edition)
 \@@bwsp=\box52
 \@bcal=\count92
 \shaderule=\dimen129
-)) (c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+)) (c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip44
 
 For additional information on amsmath, use the `?' option.
-(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
- (c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
 \ex@=\dimen130
-)) (c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) (c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen131
-) (c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count93
@@ -124,41 +124,41 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 \mathdisplay@stack=\toks20
 LaTeX Info: Redefining \[ on input line 2844.
 LaTeX Info: Redefining \] on input line 2845.
-) (c:/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+) (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (c:/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+ (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup5
 \symAMSb=\mathgroup6
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (c:/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+)) (c:/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
- (c:/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+ (c:/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks21
-) (c:/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+) (c:/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
- (c:/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+ (c:/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) (c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: dvipdfmx.def on input line 99.
- (c:/texlive/2018/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+ (c:/texlive/2019/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
 File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
 ))
 \Gin@req@height=\dimen139
 \Gin@req@width=\dimen140
-) (c:/texlive/2018/texmf-dist/tex/latex/was/upgreek.sty
+) (c:/texlive/2019/texmf-dist/tex/latex/was/upgreek.sty
 Package: upgreek 2003/02/12 v2.0 (WaS)
 Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
 \symugrf@m=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
 (Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
-) (c:/texlive/2018/texmf-dist/tex/latex/cases/cases.sty
+) (c:/texlive/2019/texmf-dist/tex/latex/cases/cases.sty
 Package: cases 2002/05/02 ver 2.5 
-) (c:/texlive/2018/texmf-dist/tex/latex/tools/bm.sty
+) (c:/texlive/2019/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup8
 \symboldletters=\mathgroup9
@@ -166,10 +166,10 @@ Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
 \symboldmincho=\mathgroup11
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
 LaTeX Info: Redefining \bm on input line 207.
-) (c:/texlive/2018/texmf-dist/tex/latex/multirow/bigdelim.sty
+) (c:/texlive/2019/texmf-dist/tex/latex/multirow/bigdelim.sty
 Package: bigdelim 2019/01/01 v2.4 Create big delimiters in tabular or array
 
-(c:/texlive/2018/texmf-dist/tex/latex/multirow/multirow.sty
+(c:/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
 \multirow@colwidth=\skip47
 \multirow@cntb=\count105
@@ -178,7 +178,7 @@ Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
 ))
 \circlebox=\box55
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 12.
- (c:/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+ (c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
@@ -222,11 +222,11 @@ LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
 (Font)              scaled to size 4.62341pt on input line 53.
 LaTeX Font Info:    Try loading font information for U+msa on input line 53.
- (c:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 53.
- (c:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+ (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
@@ -265,10 +265,10 @@ File: 8_6.JPG Graphic file (type bmp)
 <8_6.JPG>
  [6] (./834.aux) ) 
 Here is how much of TeX's memory you used:
- 2088 strings out of 493215
- 24330 string characters out of 6147105
- 96281 words of memory out of 5000000
- 6038 multiletter control sequences out of 15000+600000
+ 2090 strings out of 493219
+ 24361 string characters out of 6147463
+ 96451 words of memory out of 5000000
+ 6042 multiletter control sequences out of 15000+600000
  21503 words of font info for 97 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  27i,7n,27p,955b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
